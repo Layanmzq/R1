@@ -28,5 +28,7 @@ The model will learn patterns from historical sales data and then predict the pr
 ## Summary
 In summary, this dataset provides comprehensive house information and the machine learning objective is to predict house sale prices using regression techniques. The project focuses on feature analysis, preprocessing categorical and numerical data, and training predictive models to estimate property values.
 
+---
+
 ## AI Assistance in Flowchart Creation
 https://chatgpt.com/share/69877724-8a4c-800f-b9d5-cde48e7cc945 
