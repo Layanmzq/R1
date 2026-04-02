@@ -1,5 +1,5 @@
-#E-Commerce Customers Linear Regression Project
-#Summary
+# E-Commerce Customers Linear Regression Project
+# Summary
 
 This project analyzes the Ecommerce Customers dataset using a Linear Regression model to predict the Yearly Amount Spent by customers.
 
